@@ -57,7 +57,6 @@ O sistema foi projetado para atender:
 
 | Categoria         | Ferramentas                             |
 |------------------|-----------------------------------------|
-| **Frontend Web** | React                                    |
 | **Mobile**       | React Native                             |
 | **Backend**      | Spring Boot (Java)                       |
 | **Banco de Dados** | MySQL                                  |
@@ -99,10 +98,11 @@ O sistema foi projetado para atender:
 
 | Integrante       | Função no Projeto        |
 |------------------|--------------------------|
-| Nome 1           | Frontend / Mobile        |
-| Nome 2           | Backend / API            |
-| Nome 3           | Scrum Master / QA        |
-| Nome 4           | Documentação / Suporte   |
+| Murilo           | Backend / API            |
+| Nicolas          | Líder / Mobile              |
+| Pedro            | Backend / API            |
+| Ramos            | Backend / API            |
+| Gaban            | Mobile / Gestão de Projeto e Versionamento   |
 
 > Atualize esta tabela com os nomes reais da equipe!
 
