@@ -104,8 +104,6 @@ O sistema foi projetado para atender:
 | Ramos            | Backend / API            |
 | Gaban            | Mobile / Gestão de Projeto e Versionamento   |
 
-> Atualize esta tabela com os nomes reais da equipe!
-
 ---
 
 ## 🤝 Contribuição
