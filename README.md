@@ -106,15 +106,3 @@ O sistema foi projetado para atender:
 
 ---
 
-## 🤝 Contribuição
-
-Este projeto faz parte de um trabalho acadêmico, mas está aberto para sugestões e colaborações. Veja nossas diretrizes na aba [Wiki](https://github.com/Gaban03/BiblioTech/wiki).
-
----
-
-## 📝 Licença
-
-Este projeto é de uso educacional, sem fins lucrativos.
-
----
-
